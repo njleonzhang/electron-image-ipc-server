@@ -19,3 +19,5 @@ electron = spawn(electronPath, [scriptPath, scriptPath], {
     env: spawn_env,
     stdio: ['pipe', 'pipe', 'pipe', 'ipc']
 });
+
+process.exit();

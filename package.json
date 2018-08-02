@@ -1,6 +1,6 @@
 {
   "name": "electron-image-ipc-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eletron-image-ipc-server for vscode-extension-mardown-image-paste",
   "main": "index.js",
   "bin": {
